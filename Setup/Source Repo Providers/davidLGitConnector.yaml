@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:42HlhZfMSc-IrAi3U7EU8g
+url: https://github.com/LinebergerD/adminlab
+urlType: REPO
+username: git
