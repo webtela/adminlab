@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: GIT
+keyAuth: false
+password: safeharness:qrwIfTQGQom3rm2oi2kOxA
+url: https://github.com/krgkanth/HelloWorld
+urlType: REPO
+username: krgkanth@gmail.com
