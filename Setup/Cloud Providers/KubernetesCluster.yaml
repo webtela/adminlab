@@ -20,4 +20,11 @@ usageRestrictions:
     envFilter:
       filterTypes:
       - PROD
+  - appFilter:
+      entityNames:
+      - nalini chowala
+      filterType: SELECTED
+    envFilter:
+      filterTypes:
+      - NON_PROD
 useKubernetesDelegate: true
