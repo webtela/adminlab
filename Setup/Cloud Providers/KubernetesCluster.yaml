@@ -1,6 +1,7 @@
 harnessApiVersion: '1.0'
 type: KUBERNETES_CLUSTER
 delegateSelectors:
+- ravidelegate
 - hardeepreetis-imac.local
 skipValidation: true
 usageRestrictions:
